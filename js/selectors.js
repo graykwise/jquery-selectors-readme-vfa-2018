@@ -1,8 +1,13 @@
 // declare your functions here...
 
-$('img')
+function paragraphSelector() {
+  
+  return $('p')
+  
+}
 
-$('.pics')
-
-$('#baby-ninja')
-
+function lastImageSelector() {
+  
+  
+  
+}
