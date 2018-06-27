@@ -8,6 +8,6 @@ function paragraphSelector() {
 
 function lastImageSelector() {
   
-  return $('parent-tag child-tag:first-child');
+  return $('div img:last-child');
   
 }
